@@ -1,0 +1,17 @@
+{
+  "name": "project_manager",
+  "version": "1.0.0",
+  "description": "Armazenador de Projetos",
+  "main": "index.js",
+  "author": "Paulo Humberto",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
